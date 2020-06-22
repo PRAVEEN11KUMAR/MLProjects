@@ -1,3 +1,5 @@
+FACE DETECTION:
+
 Link to download python https://www.python.org/downloads/release/python-377/
 
 To install opencv python(run this in command prompt) pip install opencv-python
